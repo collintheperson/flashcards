@@ -1,20 +1,148 @@
 .container {
-  background: #bedbea;
+  background: #e9daf2;
 }
 body {
-  background: #d5deed;
+  background: #f2f3f4;
 }
 .col-md-4 {
   text-align: center;
+  border: 2px dashed #81559b;
+  height: 150px;
+}
+.jumbotron {
+  text-align: center;
+  color: #724b89;
+  border: 2px solid #724b89;
+}
+h4 {
+  color: #724b89;
 }
 #js {
   display: none;
 }
 .clickable {
   cursor: pointer;
-  color: blue;
+  color: #81559b;
 }
 .clickable:hover {
+  text-decoration: underline;
+}
+.clickable1 {
+  cursor: pointer;
+  color: #81559b;
+}
+.clickable1:hover {
+  text-decoration: underline;
+}
+.clickable2 {
+  cursor: pointer;
+  color: #81559b;
+}
+.clickable2:hover {
+  text-decoration: underline;
+}
+.clickable3 {
+  cursor: pointer;
+  color: #81559b;
+}
+.clickable3:hover {
+  text-decoration: underline;
+}
+.clickable4 {
+  cursor: pointer;
+  color: #81559b;
+}
+.clickable4:hover {
+  text-decoration: underline;
+}.clickable5 {
+  cursor: pointer;
+  color: #81559b;
+}
+.clickable5:hover {
+  text-decoration: underline;
+}
+.clickable6 {
+  cursor: pointer;
+  color: #81559b;
+}
+.clickable6:hover {
+  text-decoration: underline;
+}
+.clickable7 {
+  cursor: pointer;
+  color: #81559b;
+}
+.clickable7:hover {
+  text-decoration: underline;
+}
+.clickable8 {
+  cursor: pointer;
+  color: #81559b;
+}
+.clickable8:hover {
+  text-decoration: underline;
+}
+.clickable9 {
+  cursor: pointer;
+  color: #81559b;
+}
+.clickable9:hover {
+  text-decoration: underline;
+}
+.clickable10 {
+  cursor: pointer;
+  color: #81559b;
+}
+.clickable10:hover {
+  text-decoration: underline;
+}
+.clickable11 {
+  cursor: pointer;
+  color: #81559b;
+}
+.clickable11:hover {
+  text-decoration: underline;
+}
+.clickable12 {
+  cursor: pointer;
+  color: #81559b;
+}
+.clickable12:hover {
+  text-decoration: underline;
+}
+.clickable13 {
+  cursor: pointer;
+  color: #81559b;
+}
+.clickable13:hover {
+  text-decoration: underline;
+}
+.clickable14 {
+  cursor: pointer;
+  color: #81559b;
+}
+.clickable14:hover {
+  text-decoration: underline;
+}
+.clickable15 {
+  cursor: pointer;
+  color: #81559b;
+}
+.clickable15:hover {
+  text-decoration: underline;
+}
+.clickable16 {
+  cursor: pointer;
+  color: #81559b;
+}
+.clickable16:hover {
+  text-decoration: underline;
+}
+.clickable17 {
+  cursor: pointer;
+  color: #81559b;
+}
+.clickable17:hover {
   text-decoration: underline;
 }
 #op {
@@ -30,5 +158,41 @@ body {
   display: none;
 }
 #met {
+  display: none;
+}
+#arg  {
+  display: none;
+}
+#par  {
+  display: none;
+}
+#ret  {
+  display: none;
+}
+#cha  {
+  display: none;
+}
+#str  {
+  display: none;
+}
+#boo  {
+  display: none;
+}
+#und  {
+  display: none;
+}
+#nan  {
+  display: none;
+}
+#esc  {
+  display: none;
+}
+#ale  {
+  display: none;
+}
+#com  {
+  display: none;
+}
+#cli  {
   display: none;
 }
