@@ -1,0 +1,34 @@
+.container {
+  background: #bedbea;
+}
+body {
+  background: #d5deed;
+}
+.col-md-4 {
+  text-align: center;
+}
+#js {
+  display: none;
+}
+.clickable {
+  cursor: pointer;
+  color: blue;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
+#op {
+  display: none;
+}
+#var {
+  display: none;
+}
+#vn {
+  display: none;
+}
+#fun  {
+  display: none;
+}
+#met {
+  display: none;
+}
